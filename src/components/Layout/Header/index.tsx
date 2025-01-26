@@ -1,10 +1,14 @@
 import React from "react";
 import TitleBar from "./titleBar";
+import MainHeader from "./mainHeader";
+import LogoDetails from "./logo";
 
 const Header: React.FC = () => {
   return (
     <div>
-      <TitleBar />
+      {/* <TitleBar /> */}
+      {/* <LogoDetails /> */}
+      {/* <MainHeader /> */}
     </div>
   );
 };
